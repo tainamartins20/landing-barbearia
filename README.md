@@ -78,9 +78,17 @@ landing-barbearia/
 │   ├── js/
 │   │   └── script.js
 │   └── img/
-│       ├── about-img.jpg
-│       ├── favicon.png
-│       └── ...
+│       ├── about.jpg
+│       ├── service1.jpg
+│       ├── service2.jpg
+│       ├── service3.jpg
+│       ├── service4.jpg
+│       ├── galeria1.jpg
+│       ├── galeria2.jpg
+│       ├── galeria3.jpg
+│       ├── galeria4.jpg
+│       ├── galeria5.jpg
+│       └── favicon.png
 ```
 
 ## ⚙️ Como Executar o Projeto
