@@ -68,3 +68,36 @@ O objetivo do projeto é **atrair clientes e facilitar agendamentos via WhatsApp
 ---
 
 ## 📂 Estrutura de Pastas
+
+```bash
+landing-barbearia/
+├── index.html
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── img/
+│       ├── about-img.jpg
+│       ├── favicon.png
+│       └── ...
+```
+
+## ⚙️ Como Executar o Projeto
+
+1. Faça o download ou clone o repositório:
+
+```bash
+git clone https://github.com/tainamartins20/landing-barbearia.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd landing-barbearia
+```
+
+3. Abra o arquivo index.html no navegador de sua preferência.
+
+Desenvolvido por Tainá Martins.
+
